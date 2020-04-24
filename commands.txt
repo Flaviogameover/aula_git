@@ -18,7 +18,7 @@ git remote -v -- mostra a url do github em que estamos trabalhando
 git remote add origin 'url' -- conecta com o workplace do github
 
 git push origin master -- sincroniza com o github no branch desejado - do git local para o github
-git pull origin master -- sincroniza com o github no branch desejado - do github para o git local
+git pull origin master --allow-unrelated-histories -- sincroniza com o github no branch desejado - do github para o git local
 
 clear -- limpa o console
 
