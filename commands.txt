@@ -7,5 +7,6 @@ git config --global user.email -- mostra o email do criador (se colocar o nome e
 
 git status -- mostra os arquivos e arquivos alterados
 git diff -- mostra alteracoes nos arquivos
+git commit -m "nome do commit" -- salva na pasta todos os arquivos no repositorio, em esquema de versoes
 
 clear -- limpa o console
