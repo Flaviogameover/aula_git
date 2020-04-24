@@ -13,7 +13,9 @@ git status -- mostra os arquivos e arquivos alterados
 git diff -- mostra alteracoes nos arquivos
 git log -- mostra todos os git feitos nesse branch (sessao)
 
-git remote -v -- mostra a url do git em que estamos trabalhando
+git remote rm origin -- remove e reseta a url conectada com github
+git remote -v -- mostra a url do github em que estamos trabalhando
+
 
 clear -- limpa o console
 
