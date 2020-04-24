@@ -17,7 +17,7 @@ git remote rm origin -- remove e reseta a url conectada com github
 git remote -v -- mostra a url do github em que estamos trabalhando
 git remote add origin 'url' -- conecta com o workplace do github
 
-git pull origin master -- sincroniza com o github no branch desejado
+git pull origin master -- sincroniza com o github no branch desejado - do github para o git local
 
 clear -- limpa o console
 
