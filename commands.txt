@@ -1,0 +1,11 @@
+git init -- inicia o repositorio
+git add "nome do arquivo" -- adiciona o arquivo ao repositorio
+git add -A -- adiciona todos os arquivos ao repositorio
+
+git config --global user.name -- mostra o nome do criador (se colocar o nome em "aspas" seta o nome)
+git config --global user.email -- mostra o email do criador (se colocar o nome em "aspas" seta o email)
+
+git status -- mostra os arquivos e arquivos alterados
+git diff -- mostra alteracoes nos arquivos
+
+clear -- limpa o console
