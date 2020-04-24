@@ -7,6 +7,7 @@ git config --global user.email -- mostra o email do criador (se colocar o nome e
 
 git commit -m "nome do commit" -- salva na pasta todos os arquivos no repositorio, em esquema de versoes
 git add -A && git commit -m "nome do commit" -- adiciona e salva na pasta todos os arquivos no repositorio
+git reset --hard 'codigo do commit utilizando o git log (sem aspas)' -- volta para o commit desejado
 
 git status -- mostra os arquivos e arquivos alterados
 git diff -- mostra alteracoes nos arquivos
